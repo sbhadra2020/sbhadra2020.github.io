@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D candidate in Computer Science and Engineering at the Washington University in St. Louis. Currently, I am a visiting scholar at the University of Illinois at Urbana-Champaign where I am pursuing research in the [Computational Imaging Science Laboratory](https://anastasio.bioengineering.illinois.edu/) supervised by [Prof. Mark A. Anastasio](https://bioengineering.illinois.edu/people/maa).
+I am a Ph.D candidate in Computer Science and Engineering at the Washington University in St. Louis. Currently, I am a visiting scholar at the University of Illinois at Urbana-Champaign (UIUC) where I am pursuing research in the [Computational Imaging Science Laboratory](https://anastasio.bioengineering.illinois.edu/) supervised by [Prof. Mark A. Anastasio](https://bioengineering.illinois.edu/people/maa).
 
 News
 ======
 * Paper on finding multiple data-consistent solutions of ill-posed tomographic imaging problems with a StyleGAN available on arXiv (preprint)
 * Research on hallucinations in medical imaging highlighted in IEEE Spectrum: [*Medical Image AIs Need a Good "Hallucination Map"*](https://spectrum.ieee.org/ai-medical-imaging-false-structures)
-* Featured in research story by the Beckman Institute: [*Investigating medical imaging hallucinations*](https://beckman.illinois.edu/about/news/article/2022/01/07/investigating-medical-imaging-hallucinations)
+* Featured in research story by the Beckman Institute (UIUC): [*Investigating medical imaging hallucinations*](https://beckman.illinois.edu/about/news/article/2022/01/07/investigating-medical-imaging-hallucinations)
 * Paper defining hallucinations in ill-posed imaging inverse problems published in IEEE Transactions on Medical Imaging 2021: Second Special Issue on Machine Learning for Image Reconstruction [(paper)](https://ieeexplore.ieee.org/document/9424044)
 * Paper on improved generative-model constrained image reconstruction with invertible neural networks published in IEEE Transactions on Computational Imaging 2021 [(paper)](https://ieeexplore.ieee.org/document/9318016)
 
