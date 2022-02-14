@@ -12,7 +12,7 @@ I am a Ph.D candidate in Computer Science and Engineering at the Washington Univ
 
 News
 ======
-* Paper on finding multiple data-consistent solutions of ill-posed tomographic imaging problems with a StyleGAN available on arXiv (preprint)
+* Paper on finding multiple data-consistent solutions of ill-posed tomographic imaging problems with a StyleGAN available on arXiv [(preprint)](http://arxiv.org/abs/2202.05311)
 * Research on hallucinations in medical imaging highlighted in IEEE Spectrum: [*Medical Image AIs Need a Good "Hallucination Map"*](https://spectrum.ieee.org/ai-medical-imaging-false-structures)
 * Featured in research story by the Beckman Institute: [*Investigating medical imaging hallucinations*](https://beckman.illinois.edu/about/news/article/2022/01/07/investigating-medical-imaging-hallucinations)
 * Paper defining hallucinations in ill-posed imaging inverse problems published in IEEE Transactions on Medical Imaging 2021: Second Special Issue on Machine Learning for Image Reconstruction [(paper)](https://ieeexplore.ieee.org/document/9424044)
