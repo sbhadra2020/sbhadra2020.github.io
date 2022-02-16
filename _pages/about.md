@@ -19,6 +19,9 @@ News
 * Paper defining hallucinations in ill-posed imaging inverse problems published in IEEE Transactions on Medical Imaging 2021 under the Second Special Issue on Machine Learning for Image Reconstruction [(paper)](https://ieeexplore.ieee.org/document/9424044)
 * Paper on improved generative-model constrained image reconstruction with invertible neural networks (INNs) published in IEEE Transactions on Computational Imaging 2021 [(paper)](https://ieeexplore.ieee.org/document/9318016)
 
+<!---
+Inspired by https://giannisdaras.github.io/
+-->
 Publications
 ======
 {% include base_path %}
