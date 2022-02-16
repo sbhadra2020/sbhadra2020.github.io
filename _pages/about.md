@@ -11,6 +11,9 @@ redirect_from:
 
 I am a Ph.D candidate in Computer Science and Engineering at the Washington University in St. Louis. Currently, I am a visiting scholar at the University of Illinois at Urbana-Champaign in the [Computational Imaging Science Laboratory](https://anastasio.bioengineering.illinois.edu/) supervised by [Prof. Mark A. Anastasio](https://bioengineering.illinois.edu/people/maa). My research focuses on investigating deep learning (DL) methods for image reconstruction guided by fundamental principles of imaging science. Before joining my Ph.D program, I completed my Bachelor of Engineering (B.E.) degree in Electronics and Telecommunication Engineering from Jadavpur University, India in 2016. 
 
+<!---
+Inspired by https://giannisdaras.github.io/
+-->
 ## News
 * Paper on finding multiple data-consistent solutions of ill-posed tomographic imaging problems with a style-based GAN available on arXiv [(preprint)](http://arxiv.org/abs/2202.05311)
 * Research on hallucinations in medical imaging highlighted in IEEE Spectrum: [*Medical Image AIs Need a Good "Hallucination Map"*](https://spectrum.ieee.org/ai-medical-imaging-false-structures)
@@ -18,9 +21,6 @@ I am a Ph.D candidate in Computer Science and Engineering at the Washington Univ
 * Paper defining hallucinations in ill-posed imaging inverse problems published in IEEE Transactions on Medical Imaging 2021 under the Second Special Issue on Machine Learning for Image Reconstruction [(paper)](https://ieeexplore.ieee.org/document/9424044)
 * Paper on improved generative-model constrained image reconstruction with invertible neural networks (INNs) published in IEEE Transactions on Computational Imaging 2021 [(paper)](https://ieeexplore.ieee.org/document/9318016)
 
-<!---
-Inspired by https://giannisdaras.github.io/
--->
 ## Publications
 {% include base_path %}
 
