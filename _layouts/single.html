@@ -39,7 +39,8 @@ layout: default
         {% elsif page.status %}
           <p> {{ page.status }} {% if page.venue %} in <strong> {{ page.venue }} </strong> {% endif %} {% if page.paperurl %} <a href="{{page.paperurl}}" target="_blank">[Paper]</a>{% endif %} {% if page.code %} <a href="{{page.code}}" target="_blank">[Code]</a>{% endif %} </p>
         {% endif %}
-
+        
+        <!---
         {% if page.authors %}
             <p>
               {% if page.status == 'Published' %}
@@ -49,7 +50,10 @@ layout: default
               {% endif %}
             </p>
         {% endif %}
-
+        -->
+        {% if page.authors %}
+            <p> {{page.authors}} </p>
+        {% endif %}
         </header>
       {% endunless %}
 
