@@ -53,12 +53,16 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
+    <!---
     {% if post.authors %}
       <p>
         <u> Citation</u>: {{post.authors}}, "{{post.title}}", <i> {{post.venue}} </i>
       </p>
     {% endif %}
-
+    -->
+    {% if post.authors %}
+      <p>{{post.authors}}</p>
+    {% endif %}
 
   </article>
 </div>
