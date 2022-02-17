@@ -22,6 +22,8 @@ Inspired by https://giannisdaras.github.io/
 * Paper on improved generative-model constrained image reconstruction with invertible neural networks published in IEEE Transactions on Computational Imaging 2021 [(paper)](https://ieeexplore.ieee.org/document/9318016)
 
 ## Selected publications
+For a full and up-to-date list of my publications, please visit my [Google Scholar page](https://scholar.google.com/citations?user=vZQlZNwAAAAJ&hl=en).
+
 {% include base_path %}
 
 {% assign sorted = site.publications | reverse %}
