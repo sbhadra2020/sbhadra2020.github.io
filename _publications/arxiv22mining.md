@@ -1,6 +1,7 @@
 ---
 title: "Mining the manifolds of deep generative models for multiple data-consistent solutions of ill-posed tomographic imaging problems"
 collection: publications
+permalink: /about/
 excerpt: ''
 status: 'Preprint'
 venue: arXiv 2022
