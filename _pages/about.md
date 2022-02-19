@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D candidate in Computer Science and Engineering at the Washington University in St. Louis. Currently, I am a visiting scholar at the University of Illinois at Urbana-Champaign in the [Computational Imaging Science Laboratory](https://anastasio.bioengineering.illinois.edu/) supervised by [Prof. Mark A. Anastasio](https://bioengineering.illinois.edu/people/maa). My research focuses on investigating deep learning (DL) methods for image reconstruction guided by theoretical principles of image formation, with applications in medical imaging. Before joining my Ph.D program, I completed my Bachelor of Engineering (B.E.) degree in Electronics and Telecommunication Engineering from Jadavpur University, India in 2016. 
+I am a Ph.D candidate in Computer Science and Engineering at the Washington University in St. Louis. Currently, I am a visiting scholar at the University of Illinois at Urbana-Champaign in the [Computational Imaging Science Laboratory](https://anastasio.bioengineering.illinois.edu/) supervised by [Prof. Mark A. Anastasio](https://bioengineering.illinois.edu/people/maa). My research focuses on investigating deep learning (DL) methods for image reconstruction guided by theoretical principles of image formation, with applications in medical imaging. Before joining my Ph.D program, I completed my B.E. degree in Electronics and Telecommunication Engineering from Jadavpur University, India in 2016. 
 
 ## News
 * Paper on learning stochastic object models with advanced AmbientGANs accepted in SPIE Journal of Medical Imaging 2022 (to be published)
