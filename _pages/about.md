@@ -23,15 +23,32 @@ Selected publications
 ======
 For a full and up-to-date list of my publications, please visit my [Google Scholar page](https://scholar.google.com/citations?user=vZQlZNwAAAAJ&hl=en).
 
+- **Mining the manifolds of deep generative models for multiple data-consistent solutions of ill-posed tomographic imaging problems**<br/>
+    *arXiv* 2022<br/>
+    **Sayantan Bhadra**, Umberto Villa, Mark A. Anastasio<br/>
+    [[paper]](https://arxiv.org/pdf/2202.05311.pdf)
+
+- **Learning stochastic object models from medical imaging measurements by use of advanced AmbientGANs**<br/>
+    *arXiv* 2021<br/>
+    Weimin Zhou, **Sayantan Bhadra**, Frank J. Brooks, Hua Li, Mark A. Anastasio<br/>
+    [[paper]](https://arxiv.org/pdf/2202.05311.pdf) [[project page]](https://anastasio.bioengineering.illinois.edu/research/machine-learning-based-numerical-observers/assessment-of-imaging-systems-image-reconstruction/)
+
 - **On hallucinations in tomographic image reconstruction**<br/>
-    *IEEE Transactions on Medical Imaging* 2021<br/>
+    *IEEE Transactions on Medical Imaging * 2021<br/>
     **Sayantan Bhadra**, Varun A. Kelkar, Frank J. Brooks, Mark A. Anastasio<br/>
-    [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9424044) [[code]](https://github.com/comp-imaging-sci/hallucinations-tomo-recon) [[project]](https://anastasio.bioengineering.illinois.edu/research/comp-imag-learn/hallucinations-recon/)
+    [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9424044) [[code]](https://github.com/comp-imaging-sci/hallucinations-tomo-recon) [[project page]](https://anastasio.bioengineering.illinois.edu/research/comp-imag-learn/hallucinations-recon/)
 
 - **Compressible latent-space invertible networks for generative model-constrained image reconstruction**<br/>
     *IEEE Transactions on Computational Imaging* 2021<br/>
     Varun A. Kelkar, **Sayantan Bhadra**, Mark A. Anastasio<br/>
-    [[paper]](https://arxiv.org/pdf/2007.02462.pdf) [[project]](https://anastasio.bioengineering.illinois.edu/research/comp-imag-learn/csgm/)
+    [[paper]](https://arxiv.org/pdf/2007.02462.pdf) [[project page]](https://anastasio.bioengineering.illinois.edu/research/comp-imag-learn/csgm/)
+
+- **Medical image reconstruction with image-adaptive priors learned by use of generative adversarial networks**<br/>
+    *SPIE Medical Imaging* 2020<br/>
+    **Sayantan Bhadra**, Weimin Zhou, Mark A. Anastasio<br/>
+    [[paper]](https://arxiv.org/pdf/2001.10830.pdf) [[project page]](https://anastasio.bioengineering.illinois.edu/research/comp-imag-learn/csgm/)
+
+
 
 
 
