@@ -28,5 +28,10 @@ For a full and up-to-date list of my publications, please visit my [Google Schol
     **Sayantan Bhadra**, Varun A. Kelkar, Frank J. Brooks, Mark A. Anastasio<br/>
     [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9424044) [[code]](https://github.com/comp-imaging-sci/hallucinations-tomo-recon) [[project]](https://anastasio.bioengineering.illinois.edu/research/comp-imag-learn/hallucinations-recon/)
 
+- **Compressible latent-space invertible networks for generative model-constrained image reconstruction**<br/>
+    *IEEE Transactions on Computational Imaging* 2021<br/>
+    Varun A. Kelkar, **Sayantan Bhadra**, Mark A. Anastasio<br/>
+    [[paper]](https://arxiv.org/pdf/2007.02462.pdf) [[project]](https://anastasio.bioengineering.illinois.edu/research/comp-imag-learn/csgm/)
+
 
 
