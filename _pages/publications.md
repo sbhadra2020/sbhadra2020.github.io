@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 ## 2022
+
 - **S. Bhadra**, U.Villa, M.A. Anastasio, ["Mining the manifolds of deep generative models for multiple data-consistent solutions of ill-posed tomographic imaging problems"](https://arxiv.org/pdf/2202.05311.pdf), *arXiv 2022*.
 
 ## 2021
