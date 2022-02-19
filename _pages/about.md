@@ -23,7 +23,7 @@ Selected publications
 ======
 For a full and up-to-date list of my publications, please visit my [Google Scholar page](https://scholar.google.com/citations?user=vZQlZNwAAAAJ&hl=en).
 
-- **On hallucinations in tomographic image reconstruction**
+- **On hallucinations in tomographic image reconstruction**<br/>
     *IEEE Transactions on Medical Imaging* 2021<br/>
     **Sayantan Bhadra**, Varun A. Kelkar, Frank J. Brooks, Mark A. Anastasio<br/>
     [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9424044) [[code]](https://github.com/comp-imaging-sci/hallucinations-tomo-recon) [[project]](https://anastasio.bioengineering.illinois.edu/research/comp-imag-learn/hallucinations-recon/)
