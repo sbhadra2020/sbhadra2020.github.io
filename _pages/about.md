@@ -21,6 +21,7 @@ News
 
 Selected publications
 ======
+
 - **Mining the manifolds of deep generative models for multiple data-consistent solutions of ill-posed tomographic imaging problems**<br/>
     *arXiv* 2022<br/>
     **Sayantan Bhadra**, Umberto Villa, Mark A. Anastasio<br/>
