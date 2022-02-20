@@ -21,8 +21,6 @@ News
 
 Selected publications
 ======
-For a full and up-to-date list of my publications, please visit my [Google Scholar page](https://scholar.google.com/citations?user=vZQlZNwAAAAJ&hl=en).
-
 - **Mining the manifolds of deep generative models for multiple data-consistent solutions of ill-posed tomographic imaging problems**<br/>
     *arXiv* 2022<br/>
     **Sayantan Bhadra**, Umberto Villa, Mark A. Anastasio<br/>

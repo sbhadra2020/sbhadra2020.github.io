@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-For a full and up-to-date list of my publications, please visit my [Google Scholar page](https://scholar.google.com/citations?user=vZQlZNwAAAAJ&hl=en).
+For the most updated list of my publications, please visit my [Google Scholar page](https://scholar.google.com/citations?user=vZQlZNwAAAAJ&hl=en).
 
 ## 2022
 - **S. Bhadra**, U.Villa, M.A. Anastasio, ["Mining the manifolds of deep generative models for multiple data-consistent solutions of ill-posed tomographic imaging problems"](https://arxiv.org/pdf/2202.05311.pdf), *arXiv* 2022.
