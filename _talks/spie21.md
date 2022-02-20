@@ -2,8 +2,8 @@
 title: "Assessing regularization in tomographic imaging via hallucinations in the null space"
 collection: talks
 type: "Conference proceeding talk"
-permalink: /talks/spie20
-venue: "SPIE Medical Imaging 2020"
+permalink: /talks/spie21
+venue: "SPIE Medical Imaging 2021"
 date: 2021-15-02
 location: "Online"
 ---
