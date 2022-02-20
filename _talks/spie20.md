@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceeding talk"
 permalink: /talks/spie20
 venue: "SPIE Medical Imaging 2020"
-date: 2020-20-02
+date: 2020-02-20
 location: "Houston, Texas"
 ---
 

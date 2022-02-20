@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceeding talk"
 permalink: /talks/spie21
 venue: "SPIE Medical Imaging 2021"
-date: 2021-15-02
+date: 2021-02-15
 location: "Online"
 ---
 

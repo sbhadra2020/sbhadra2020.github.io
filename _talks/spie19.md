@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceeding talk"
 permalink: /talks/spie19
 venue: "SPIE Medical Imaging 2019"
-date: 2019-21-02
+date: 2019-02-21
 location: "San Diego, California"
 ---
 
