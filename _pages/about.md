@@ -19,6 +19,7 @@ News
 * Paper on improved generative-model constrained image reconstruction with invertible neural networks published in IEEE Transactions on Computational Imaging 2021 [(paper)](https://ieeexplore.ieee.org/document/9318016)
 * Paper on image-adaptive GAN-constrained reconstruction for medical imaging applications published in SPIE Medical Imaging 2020 [(paper)](https://arxiv.org/pdf/2001.10830.pdf)
 
+
 Selected publications
 ======
 
