@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D candidate in Computer Science and Engineering at the Washington University in St. Louis. Currently, I am a visiting scholar at the University of Illinois at Urbana-Champaign in the [Computational Imaging Science Laboratory](https://anastasio.bioengineering.illinois.edu/) supervised by [Prof. Mark A. Anastasio](https://bioengineering.illinois.edu/people/maa). My research focuses on investigating deep learning (DL) methods for image reconstruction guided by theoretical principles of image formation, with applications in medical imaging. Before joining my Ph.D program, I completed my B.E. degree in Electronics and Telecommunication Engineering from Jadavpur University, India in 2016. 
+I am a Ph.D candidate in Computer Science and Engineering at the Washington University in St. Louis. Currently, I am a visiting scholar at the University of Illinois at Urbana-Champaign in the [Computational Imaging Science Laboratory](https://anastasio.bioengineering.illinois.edu/) supervised by [Prof. Mark A. Anastasio](https://bioengineering.illinois.edu/people/maa). My research focuses on investigating deep learning (DL) methods for image reconstruction guided by theoretical principles of image formation, with applications in medical imaging. Before joining my Ph.D program, I completed my B.E. degree in Electronics and Telecommunication Engineering from Jadavpur University in 2016. 
 
 News
 ======
-* Paper on learning stochastic object models with advanced AmbientGANs accepted in SPIE Journal of Medical Imaging 2022 (to be published)
+* Paper on learning stochastic object models with advanced AmbientGANs published in SPIE Journal of Medical Imaging 2022 [(paper)](http://dx.doi.org/10.1117/1.JMI.9.1.015503)
 * Paper on finding multiple data-consistent solutions of ill-posed tomographic imaging problems with a style-based GAN available on arXiv 2022 [(paper)](http://arxiv.org/abs/2202.05311)
 * Research on hallucinations in medical imaging highlighted in IEEE Spectrum: [*Medical Image AIs Need a Good "Hallucination Map"*](https://spectrum.ieee.org/ai-medical-imaging-false-structures)
 * Featured in research news by the Beckman Institute: [*Investigating medical imaging hallucinations*](https://beckman.illinois.edu/about/news/article/2022/01/07/investigating-medical-imaging-hallucinations)
@@ -31,11 +31,6 @@ Selected publications
     *arXiv* 2022<br/>
     **Sayantan Bhadra**, Umberto Villa, Mark A. Anastasio<br/>
     [[paper]](https://arxiv.org/pdf/2202.05311.pdf)
-
-- **Learning stochastic object models from medical imaging measurements by use of advanced AmbientGANs**<br/>
-    *arXiv* 2021<br/>
-    Weimin Zhou, **Sayantan Bhadra**, Frank J. Brooks, Hua Li, Mark A. Anastasio<br/>
-    [[paper]](https://arxiv.org/pdf/2202.05311.pdf) [[project]](https://anastasio.bioengineering.illinois.edu/research/machine-learning-based-numerical-observers/assessment-of-imaging-systems-image-reconstruction/)
 
 - **On hallucinations in tomographic image reconstruction**<br/>
     *IEEE Transactions on Medical Imaging* 2021<br/>
