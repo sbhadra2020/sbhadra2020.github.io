@@ -28,5 +28,5 @@ For the most updated list of my publications, please visit my [Google Scholar pa
 
 ## 2018
 - A. Oraevsky, R. Su, H. Nguyen, J. Moore, Y. Lou, **S. Bhadra**, L. Forte, M.A. Anastasio, W. Yang, ["Full-view 3D imaging system for functional and anatomical screening of the breast"](https://www.researchgate.net/profile/Yang-Lou-3/publication/324465214_Full-view_3D_imaging_system_for_functional_and_anatomical_screening_of_the_breast/links/5b6dd0cb299bf14c6d98c1b8/Full-view-3D-imaging-system-for-functional-and-anatomical-screening-of-the-breast.pdf), *SPIE BiOS* 2018.
-- H.M. Gach, **S. Bhadra**, A.N. Curcuru, R. Nana, C.G. Robinson, P.S. Cuculich, S. Mutic, M.A. Anastasio, ["Real-time low-field cardiac MRI using an integrated MRI-guided radiotherapy system"](https://index.mirasmart.com/ISMRM2018/PDFfiles/2999.html), *Proceedings of International Society for Magnetic Resonance in Medicine 26* 2018.
+- H.M. Gach, **S. Bhadra**, A.N. Curcuru, R. Nana, C.G. Robinson, P.S. Cuculich, S. Mutic, M.A. Anastasio, ["Real-time low-field cardiac MRI using an integrated MRI-guided radiotherapy system"](https://index.mirasmart.com/ISMRM2018/PDFfiles/2999.html), *Proceedings of International Society for Magnetic Resonance in Medicine 2018.
 
