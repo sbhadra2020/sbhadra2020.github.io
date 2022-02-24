@@ -8,10 +8,10 @@ author_profile: true
 For the most updated list of my publications, please visit my [Google Scholar page](https://scholar.google.com/citations?user=vZQlZNwAAAAJ&hl=en).
 
 ## 2022
+- W. Zhou, **S. Bhadra**, F.J. Brooks, H. Li, M.A. Anastasio, ["Learning stochastic object models from medical imaging measurements by use of advanced ambient generative adversarial networks"](http://dx.doi.org/10.1117/1.JMI.9.1.015503), *SPIE Journal of Medical Imaging* 2022.
 - **S. Bhadra**, U.Villa, M.A. Anastasio, ["Mining the manifolds of deep generative models for multiple data-consistent solutions of ill-posed tomographic imaging problems"](https://arxiv.org/pdf/2202.05311.pdf), *arXiv* 2022.
 
 ## 2021
-- W. Zhou, **S. Bhadra**, F.J. Brooks, H. Li, M.A. Anastasio, ["Learning stochastic object models from medical imaging measurements by use of advanced AmbientGANs"](https://arxiv.org/pdf/2202.05311.pdf), *arXiv 2021*.
 - **S. Bhadra**, V.A. Kelkar, F.J. Brooks, M.A. Anastasio, ["On hallucinations in tomographic image reconstruction"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9424044), *IEEE Transactions on Medical Imaging* 2021.
 - **S. Bhadra**, V.A. Kelkar, F.J. Brooks, M.A. Anastasio, ["Assessing regularization in tomographic imaging via hallucinations in the null space"](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11599/115990N/Assessing-regularization-in-tomographic-imaging-via-hallucinations-in-the-null/10.1117/12.2581316.short?SSO=1), *SPIE Medical Imaging* 2021.
 - V.A. Kelkar, **S. Bhadra**, M.A. Anastasio, ["Medical image reconstruction using compressible latent space invertible networks"](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11595/115951S/Medical-image-reconstruction-using-compressible-latent-space-invertible-networks/10.1117/12.2581295.short), *SPIE Medical Imaging* 2021.

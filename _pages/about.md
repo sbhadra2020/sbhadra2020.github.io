@@ -22,6 +22,10 @@ News
 
 Selected publications
 ======
+- **Learning stochastic object models from medical imaging measurements by use of advanced ambient generative adversarial networks**<br/>
+    *SPIE Journal of Medical Imaging* 2022<br/>
+    Weimin Zhou, **Sayantan Bhadra**, Frank J. Brooks, Hua Li, Mark A. Anastasio<br/>
+    [[paper]](http://dx.doi.org/10.1117/1.JMI.9.1.015503) [[project]](https://anastasio.bioengineering.illinois.edu/research/machine-learning-based-numerical-observers/assessment-of-imaging-systems-image-reconstruction/)
 
 - **Mining the manifolds of deep generative models for multiple data-consistent solutions of ill-posed tomographic imaging problems**<br/>
     *arXiv* 2022<br/>
