@@ -26,7 +26,7 @@ Research projects
     [[preprint]](https://arxiv.org/pdf/2202.05311.pdf) [[code]](https://github.com/comp-imaging-sci/hallucinations-tomo-recon)
 
 - **Learning stochastic object models from medical imaging measurements by use of advanced ambient generative adversarial networks**<br/>
-    *SPIE Journal of Medical Imaging* (2022)<br/>
+    *Journal of Medical Imaging* (2022)<br/>
     Weimin Zhou, **Sayantan Bhadra**, Frank J. Brooks, Hua Li, Mark A. Anastasio<br/>
     [[paper]](http://dx.doi.org/10.1117/1.JMI.9.1.015503) [[project]](https://anastasio.bioengineering.illinois.edu/research/machine-learning-based-numerical-observers/assessment-of-imaging-systems-image-reconstruction/)
 
