@@ -47,13 +47,13 @@ Research
 
 - **Full-view 3D imaging system for functional and anatomical screening of the breast**<br/>
     *SPIE Photonics West BiOS* (2018)<br/>
-    (with TomoWave Laboratories and MD Anderson Cancer Center)
+    (with TomoWave Laboratories and MD Anderson Cancer Center)<br/>
     A. Oraevsky, R. Su, H. Nguyen, J. Moore, Y. Lou, **S. Bhadra**, L. Forte, M.A. Anastasio, W. Yang<br/>
     [[proceeding]](https://www.researchgate.net/profile/Yang-Lou-3/publication/324465214_Full-view_3D_imaging_system_for_functional_and_anatomical_screening_of_the_breast/links/5b6dd0cb299bf14c6d98c1b8/Full-view-3D-imaging-system-for-functional-and-anatomical-screening-of-the-breast.pdf)
 
 - **Real-time low-field cardiac MRI using an integrated MRI-guided radiotherapy system**<br/>
     *ISMRM* (2018)<br/>
-    (with WashU Radiation Oncology and ViewRay)
+    (with WashU Radiation Oncology and ViewRay)<br/>
     H.M. Gach, **S. Bhadra**, A.N. Curcuru, R. Nana, C.G. Robinson, P.S. Cuculich, S. Mutic, M.A. Anastasio<br/>
     [[proceeding]](https://index.mirasmart.com/ISMRM2018/PDFfiles/2999.html)
 
