@@ -8,7 +8,7 @@ author_profile: true
 For the most updated list of my publications, please visit my [Google Scholar page](https://scholar.google.com/citations?user=vZQlZNwAAAAJ&hl=en).
 
 ## 2022
-- W. Zhou, **S. Bhadra**, F.J. Brooks, H. Li, M.A. Anastasio, ["Learning stochastic object models from medical imaging measurements by use of advanced ambient generative adversarial networks"](http://dx.doi.org/10.1117/1.JMI.9.1.015503), *SPIE Journal of Medical Imaging* 2022.
+- W. Zhou, **S. Bhadra**, F.J. Brooks, H. Li, M.A. Anastasio, ["Learning stochastic object models from medical imaging measurements by use of advanced ambient generative adversarial networks"](http://dx.doi.org/10.1117/1.JMI.9.1.015503), *Journal of Medical Imaging* 2022.
 - **S. Bhadra**, U.Villa, M.A. Anastasio, ["Mining the manifolds of deep generative models for multiple data-consistent solutions of ill-posed tomographic imaging problems"](https://arxiv.org/pdf/2202.05311.pdf), *arXiv* 2022.
 
 ## 2021
