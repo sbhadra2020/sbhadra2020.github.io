@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sayantan Bhadra"
   avatar           : "avatar.jpg"
-  bio              : "Ph.D candidate in Computer Science and Engineering, Washington University in St. Louis"
-  location         : "St. Louis, Missouri, USA"
+  bio              : "Postdoctoral Fellow at NIH Clinical Center"
+  location         : "Bethesda, Maryland, USA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=vZQlZNwAAAAJ&hl=en"
-  email            : "sayantanbhadra@wustl.edu"
+  email            : "sayantan.bhadra@nih.gov"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
