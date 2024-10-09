@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow in the Department of Radiology and Imaging Sciences at the National Institutes of Health (NIH) Clinical Center, supervised by Dr. Ronald Summers. 
-I am a Ph.D candidate in Computer Science and Engineering at the Washington University in St. Louis. Currently, I am a visiting scholar at the University of Illinois at Urbana-Champaign in the [Computational Imaging Science Laboratory](https://anastasio.bioengineering.illinois.edu/) supervised by [Prof. Mark A. Anastasio](https://bioengineering.illinois.edu/people/maa). My research focuses on investigating deep learning (DL) methods for image reconstruction guided by theoretical principles of image formation, with applications in medical imaging. Before joining my Ph.D program, I completed my B.E. degree in Electronics and Telecommunication Engineering from Jadavpur University in 2016. 
+I am a Postdoctoral Fellow in the Department of Radiology and Imaging Sciences at the National Institutes of Health (NIH) Clinical Center, supervised by Dr. Ronald Summers. My research focuses on developing and assessing modern deep learning methods to advance computer-aided diagnosis. I earned my Ph.D. degree in Computer Science and Engineering from Washington University in St. Louis in 2023, advised by Dr. Mark Anastasio. My doctoral dissertation was on the topic of improving image reconstruction using state-of-the-art deep generative models, guided by image science. Before joining my Ph.D program, I completed my B.E. degree in Electronics and Telecommunication Engineering from Jadavpur University in 2016. 
 
 News
 ======
