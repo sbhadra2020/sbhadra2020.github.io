@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow in the Department of Radiology and Imaging Sciences at the National Institutes of Health (NIH) Clinical Center, supervised by Dr. Ronald Summers. My research focuses on developing and assessing modern deep learning methods to advance computer-aided diagnosis. I earned my Ph.D. degree in Computer Science and Engineering from Washington University in St. Louis in 2023, advised by Dr. Mark Anastasio. My doctoral dissertation was on the topic of improving image reconstruction using state-of-the-art deep generative models, guided by image science. Before joining my Ph.D program, I completed my B.E. degree in Electronics and Telecommunication Engineering from Jadavpur University in 2016. 
+I am a Postdoctoral Fellow in Radiology and Imaging Sciences at the National Institutes of Health (NIH) Clinical Center, supervised by Dr. Ronald Summers. My research focuses on developing and assessing novel deep learning methods to advance computer-aided diagnosis. I earned my Ph.D. degree in Computer Science and Engineering from Washington University in St. Louis in 2023, advised by Dr. Mark Anastasio. My doctoral dissertation was on the topic of improving image reconstruction using state-of-the-art deep generative models, guided by image science. Before joining my Ph.D program, I completed my B.E. degree in Electronics and Telecommunication Engineering from Jadavpur University in 2016. 
 
 News
 ======
